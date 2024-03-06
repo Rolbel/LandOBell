@@ -9,6 +9,10 @@ I love working on projects that enhance my skills in cybersecurity tools and enj
 I'm currently pursuing an Associate Degree in Cybersecurity and Networking at DeVry University. 
 I believe in the power of continuous learning and always seek new challenges to expand my knowledge and experience in the field.
 
+## Projects
+Color Chooser App - This tool uses the tkinter `colorchooser` module to select a color. The selected color is saved in a history panel and displayed in an entry field, allowing users to easily copy the RGB code.
+ https://github.com/Rolbel/Color-Chooser
+
 ## Let's Connect!
 
 I'm always interested in collaborating on new projects and networking with fellow cybersecurity enthusiasts. 
