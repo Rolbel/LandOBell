@@ -1,7 +1,7 @@
 # LandOBell
 ## Hi there! 👋
 A bank where I store my various projects 
-#I'm Rolando, a cybersecurity student at DeVry University with a passion for programming in Python. 
+I'm Rolando, a cybersecurity student at DeVry University with a passion for programming in Python. 
 I love working on projects that enhance my skills in cybersecurity tools and enjoy creating apps that are versions of paid tools. 
 
 ## About Me
