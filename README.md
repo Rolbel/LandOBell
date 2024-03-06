@@ -14,7 +14,7 @@ I believe in the power of continuous learning and always seek new challenges to 
 I'm always interested in collaborating on new projects and networking with fellow cybersecurity enthusiasts. 
 Feel free to connect with me on LinkedIn!
 
-- LinkedIn: www.linkedin.com/in/rolando-belber-b6b2b621
-<a href="https://linkedin.com/in/rolando-belber-b6b2b621"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logoColor=white" /></a>
+- LinkedIn: www.linkedin.com/in/rolando-belber-b6b2b621a
+<a href="https://linkedin.com/in/rolando-belber-b6b2b621a"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logoColor=white" /></a>
 
 Looking forward to connecting with you! 😊
